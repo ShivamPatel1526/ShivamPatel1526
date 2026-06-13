@@ -3,7 +3,7 @@
 *Engineering Student | Aspiring Full Stack Developer | GATE 2026 Aspirant*
 
 Hi there! 👋 I’m Shivam — a third-year engineering student working hard to become both technically sound and industry-ready. I'm currently focused on:
-- 📚 Preparing for *GATE 2026*
+- 📚 Preparing for *GATE 2027*
 - 🧠 Mastering *Data Structures & Algorithms*
 - 💻 Exploring *Full Stack Web Development*
 - 🚀 Building discipline through daily learning and consistency
